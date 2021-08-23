@@ -1,5 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinhUser)](https://github.com/VinhUser/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinhUser&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinhUser&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinhUser&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinhUser&show_icons=true&theme=radical)
