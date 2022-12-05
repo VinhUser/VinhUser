@@ -5,9 +5,9 @@
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
 
-- 😎 My quote is **What you get is the result of your efforts **
+- 😎 My quote is **What you get is the result of your efforts**
 
-- ⚡ Fun fact **👏 Must be good, must be rich to carry out the word to others 👏**
+- ⚡ Fun fact **Must be good, must be rich to carry out the word to others**
 
 
 ## 📊GitHub Stats :
