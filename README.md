@@ -10,9 +10,16 @@
 - ⚡ Fun fact **Must be good, must be rich to carry out the word to others**
 
 
-## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+### Contributions Summary
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+### Most Used Programming Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+This section provides an overview of your GitHub contributions and the programming languages you use most frequently in your repositories. The "Contributions Summary" shows statistics like your total commits, contributions, and more, while the "Most Used Programming Languages" section displays the languages you primarily work with in your projects.
+
 
 ## 🛠️ My Skills
 ### 👉 Programming Languages
