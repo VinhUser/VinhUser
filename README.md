@@ -1,13 +1,12 @@
- ## About Me
- 
-- 💳 My full name is **Nguyễn Quốc Vinh**</h1>
-- 🏫 I’m currently the last year student at **FPT University - Ho Chi Minh City Campus**
+## About Me
 
-- 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
+- 👤 **Full Name**: Nguyễn Quốc Vinh
+- 🎓 **Education**: Final year student at FPT University - Ho Chi Minh City Campus
+- 🌆 **Location**: Ho Chi Minh City, Vietnam
+- 💬 **Motto**: "What you get is the result of your efforts"
+- 🌟 **Fun Fact**: "Must be good, must be rich to carry out the word to others"
+- 💼 **Internship**: Currently interning at FPT Software - FPT Academy
 
-- 😎 My quote is **What you get is the result of your efforts**
-
-- ⚡ Fun fact **Must be good, must be rich to carry out the word to others**
 
 
 ## 📊 GitHub Stats
