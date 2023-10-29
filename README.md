@@ -15,11 +15,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠️ My Skills
-
-### 👉 Programming languages
+### 👉 Programming Languages
   &emsp; 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white) 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white)
   &emsp;
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+  &emsp;
+  ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?&logo=node.js&logoColor=%23F7DF1E)
+  &emsp;
+  ![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&logo=spring&logoColor=white)
 
 ### 👉 Frontend Development
   &emsp; 
@@ -29,24 +33,33 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
   &emsp;
   &emsp;
-  ![Boostrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&logo=bootstrap&logoColor=white) 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&logo=bootstrap&logoColor=white) 
   &emsp;
   &emsp;
   ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)                                                                 &emsp;
-  &emsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
-  &emsp; 
 
-### 👉 Databases 
+### 👉 Backend Development
   &emsp;
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white) 
-  &emsp; 
-  
-### 👉Graphic Designing 
+  ![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&logo=spring&logoColor=white)
   &emsp;
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white) 	 
+  ![Node.js](https://img.shields.io/badge/node.js-%23323330.svg?&logo=node.js&logoColor=%23F7DF1E)
+
+### 👉 Databases
   &emsp;
- 
+  ![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?&logo=mongodb&logoColor=white)
+  &emsp;
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&logo=mysql&logoColor=white)
+  &emsp;
+  ![SQL Server](https://img.shields.io/badge/sql%20server-%2300f.svg?&logo=microsoft-sql-server&logoColor=white)
+  &emsp;
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23323330.svg?&logo=postgresql&logoColor=%23336791)
+  &emsp;
+
+### 👉 Graphic Designing
+  &emsp;
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+
+
 ## For More Information
 <p align="center">
   <a href="https://www.facebook.com/kosakiyuuki/" target="_blank">
