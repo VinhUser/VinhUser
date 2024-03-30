@@ -76,6 +76,6 @@ This section provides an overview of your GitHub contributions and the programmi
   </a> &nbsp;&nbsp;
   
 <div align="center">
-  Thanks for watching my profile! Have a nice day!<br/>
+  Thanks for watching my profile! Have a nice day!!<br/>
  
 </div>
