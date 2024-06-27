@@ -9,9 +9,6 @@
 
 ## 📊 GitHub Stats
 
-### Contributions Summary
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
 ### Most Used Programming Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinhUser&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
